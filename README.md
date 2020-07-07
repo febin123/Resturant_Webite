@@ -15,10 +15,10 @@ This website represents information about various dishes, price list and special
 ##create a new repository on the command line
 
 echo "# abc" >> README.md
-git init
+git init 
 git add README.md
 git commit -m "first commit"
-git remote add origin
+git remote add origin https://github.com/febin123/Resturant_Webite.git
 git push -u origin master
                 
 
