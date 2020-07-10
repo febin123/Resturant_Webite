@@ -14,15 +14,13 @@ This website represents information about various dishes, price list and special
 
 ##create a new repository on the command line
 
-echo "# abc" >> README.md
-git init 
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/febin123/Resturant_Webite.git
-git push -u origin master
-                
 
 ##Technologies used
 --HTML5
 --CSS3
 --Javascript
+
+##Platform used
+--Visual Studio Code
+--Contenful
+--Netlify
