@@ -13,7 +13,7 @@ As one of the best-reviewed and one of the legendary(63* years old) resturants i
 
              
 ##Functionality added
-In this website there is a section called Menu Item. So I have added functionality that even they(Client) can easily update Menu item name & price, there is no need to code for that, so there i used contentful as a backend connected with Visula Code Studio.
+In this website there is a section called Menu Item. So I have added functionality that even they(Client) can easily update Menu item name & price, there is no need to code for 
 
 
   -- The site was transformed from static site into fully
