@@ -13,10 +13,7 @@ As one of the best-reviewed and one of the legendary(63* years old) resturants i
 
              
 ##Functionality added
-The site was transformed from static site into fully functioning website via JAVASCRIPT, HTML5, CSS3 has a frontend and backend as Contentful. This allowed the resturant's staff to make changes to the menu
-              item name and price list on demand through an easy-to-use
-              interface. Other functionality included is client can
-              contact(through contact section) owner via email.
+The site was transformed from static site into fully functioning website via JAVASCRIPT, HTML5, CSS3 has a frontend and backend as Contentful. This allowed the resturant's staff to make changes to the menu item name and price list on demand through an easy-to-use interface. Other functionality included is client can contact(through contact section) owner via email.
 
 ##Technologies used
 --HTML5
