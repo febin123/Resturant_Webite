@@ -19,6 +19,10 @@ The site was transformed from static site into fully functioning website via JAV
 --HTML5
 --CSS3/Bootstrap
 --Javascript
+--Javascript
+--Javascript
+--Javascript
+--Javascript
 
 
 ##Platform used
