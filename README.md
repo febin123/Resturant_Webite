@@ -22,7 +22,7 @@ The site was transformed from static site into fully functioning website via JAV
 --Javascript
 --Javascript
 --Javascript
---Javascript
+
 
 
 ##Platform used
